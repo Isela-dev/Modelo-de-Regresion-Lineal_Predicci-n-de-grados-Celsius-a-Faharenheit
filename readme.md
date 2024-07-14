@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8-blue)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2-blue)](https://scikit-learn.org/stable/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 📊 Modelo de Regresión Lineal: Predicción de grados Celsius a Fahrenheit
 Este proyecto utiliza un modelo de regresión lineal para predecir la conversión de grados Celsius a Fahrenheit. Está desarrollado en un cuaderno de Jupyter (IPython Notebook).
 
@@ -40,4 +46,4 @@ Los resultados del modelo se visualizan en el cuaderno de Jupyter, incluyendo gr
 Documentación de Scikit-learn
 Documentación de Pandas
 📬 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactar a Isela - Mentes Desconectadas a través de isela.lopez.garcia.ing@gmail.com
+Si tienes alguna pregunta o sugerencia, no dudes en contactar a Isela - Mentes Desconectadas a través de https://www.linkedin.com/in/isela-l-garc%C3%ADa-tech-ia-data-machinelearning/
