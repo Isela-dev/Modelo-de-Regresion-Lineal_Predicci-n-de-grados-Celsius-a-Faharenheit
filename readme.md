@@ -4,46 +4,46 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue)](https://numpy.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2-blue)](https://scikit-learn.org/stable/)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-📊 Modelo de Regresión Lineal: Predicción de grados Celsius a Fahrenheit
-Este proyecto utiliza un modelo de regresión lineal para predecir la conversión de grados Celsius a Fahrenheit. Está desarrollado en un cuaderno de Jupyter (IPython Notebook).
+📊 Linear Regression Model: Predicting Degrees Celsius to Fahrenheit
+This project uses a linear regression model to predict the conversion from degrees Celsius to Fahrenheit. It is developed in a Jupyter notebook (IPython Notebook).
 
-📁 Estructura del proyecto
-Modelo-de-Regresion-Lineal_Predicci-n-de-grados-Celsius-a-Faharenheit.ipynb: El cuaderno principal con el código y las explicaciones del modelo de regresión lineal.
-data/: Carpeta que contiene los datos de entrada utilizados en el proyecto.
-README.md: Este archivo que estás leyendo.
-🚀 Instalación
-Clona este repositorio en tu máquina local:
+📁 Project Structure
+Model-of-Linear-Regression-Linear_Predicci-n-of-Degrees-Celsius-a-Faharenheit.ipynb: The main notebook with the code and explanations of the linear regression model.
+data/: Folder containing the input data used in the project.
+README.md: This file you are reading.
+🚀 Installation
+Clone this repository on your local machine:
 bash
-Copiar código
+Copy code
 git clone https://github.com/tu-usuario/Modelo-de-Regresion-Lineal_Predicci-n-de-grados-Celsius-a-Faharenheit.git
-Navega al directorio del proyecto:
+Navigate to the project directory:
 bash
-Copiar código
-cd Modelo-de-Regresion-Lineal_Predicci-n-de-grados-Celsius-a-Faharenheit
-Instala las dependencias necesarias:
+Copy code
+cd Model-of-Regression-Linear_Prediction-of-Degrees-Celsius-to-Faharenheit
+Install the necessary dependencies:
 bash
-Copiar código
+Copy code
 pip install -r requirements.txt
-📝 Uso
-Abre el cuaderno de Jupyter:
+📝 Usage
+Open the Jupyter notebook:
 bash
-Copiar código
-jupyter notebook Modelo-de-Regresion-Lineal_Predicci-n-de-grados-Celsius-a-Faharenheit.ipynb
-Ejecuta las celdas en orden para entrenar el modelo y realizar predicciones.
-🔧 Tecnologías Utilizadas
+Copy code
+jupyter notebook Regression-Linear_Prediction_of-Degrees-Celsius-to-Faharenheit.ipynb
+Run the cells in order to train the model and make predictions.
+🔧 Technologies Used
 Python 🐍
 Jupyter Notebook 📓
 Pandas 🐼
 NumPy 🔢
 Scikit-learn 🔬
-📊 Descripción del Modelo
-El modelo de regresión lineal se entrena utilizando un conjunto de datos que contiene temperaturas en grados Celsius y sus correspondientes conversiones a Fahrenheit. El objetivo es predecir los grados Fahrenheit a partir de los grados Celsius utilizando el modelo entrenado.
+📊 Model Description
+The linear regression model is trained using a data set containing temperatures in degrees Celsius and their corresponding conversions to Fahrenheit. The objective is to predict Fahrenheit degrees from Celsius degrees using the trained model.
 
-📈 Resultados
-Los resultados del modelo se visualizan en el cuaderno de Jupyter, incluyendo gráficos que muestran la relación entre los grados Celsius y Fahrenheit, así como las predicciones del modelo.
+📈 Results
+The model results are displayed in the Jupyter notebook, including graphs showing the relationship between Celsius and Fahrenheit, as well as the model predictions.
 
-📚 Referencias
-Documentación de Scikit-learn
-Documentación de Pandas
-📬 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactar a Isela - Mentes Desconectadas a través de https://www.linkedin.com/in/isela-l-garc%C3%ADa-tech-ia-data-machinelearning/
+📚 References
+Scikit-learn Documentation
+Pandas Documentation
+📬 Contact
+If you have any questions or suggestions, please do not hesitate to contact us at Isela - Mentes Desconectadas a través de https://www.linkedin.com/in/isela-l-garc%C3%ADa-tech-ia-data-machinelearning/
